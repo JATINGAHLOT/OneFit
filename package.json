@@ -1,5 +1,5 @@
 {
-  "name": "ai-workout-assistant",
+  "name": "One Fit : ai-workout-assistant",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reevald/ai-workout-assistant.git"
+    "url": "git+https://github.com/reevald/One Fit : ai-workout-assistant.git"
   },
   "author": "Moch. Galang Rivaldo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reevald/ai-workout-assistant/issues"
+    "url": "https://github.com/reevald/One Fit : ai-workout-assistant/issues"
   },
-  "homepage": "https://github.com/reevald/ai-workout-assistant#readme",
+  "homepage": "https://github.com/reevald/One Fit : ai-workout-assistant#readme",
   "devDependencies": {
     "eslint": "^8.32.0",
     "eslint-config-airbnb-base": "^15.0.0",
